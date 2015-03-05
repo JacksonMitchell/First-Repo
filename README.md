@@ -1,18 +1,5 @@
 # First GitHub Repository
 
-
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace nameBackwards
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
             Console.WriteLine("What is your name? ");
 
             var Name = Console.ReadLine();
@@ -33,7 +20,3 @@ namespace nameBackwards
             }
             Console.WriteLine("Is your name Backwards!");
             Console.ReadKey();
-
-        }
-    }
-}
