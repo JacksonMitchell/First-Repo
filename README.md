@@ -19,4 +19,4 @@
                 Console.WriteLine(Name[i - 1]);
             }
             Console.WriteLine("Is your name Backwards!");
-            Console.ReadKey();
+            Console.ReadKey()
